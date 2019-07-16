@@ -1,0 +1,6 @@
+#list of things I want git to ignore
+temp1 
+temp3
+*.tmp
+temp/ 
+
